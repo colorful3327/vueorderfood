@@ -100,7 +100,6 @@
                                 <!--索引列-->
                                 <el-table-column
                                         type="index"
-
                                         :index="indexMethod"
 
                                         width="81"
