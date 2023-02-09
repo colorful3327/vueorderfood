@@ -46,7 +46,7 @@
                             </div>
                         </el-header>
                         <el-main>
-                            <!--更多查询-待补充-->
+                            <!--更多查询-待补充-已补充-->
                             <el-collapse  @change="handleChange">
                                 <el-collapse-item title="更多查询" name="1" v-if="!addOrderApply">
                                     <el-form :inline="true" :model="query" class="demo-form-inline">
