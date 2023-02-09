@@ -106,7 +106,6 @@
                                         prop="empno"
                                         label="序号">
                                 </el-table-column>
-
                                 <el-table-column
                                         prop="orderno"
                                         label="申请编号">
