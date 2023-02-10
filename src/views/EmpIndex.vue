@@ -101,7 +101,6 @@
                                 <el-table-column
                                         type="index"
                                         :index="indexMethod"
-
                                         width="81"
                                         prop="empno"
                                         label="序号">
